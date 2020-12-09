@@ -1,0 +1,14 @@
+*/.*
+*.pyc
+_pycache_
+venv/**
+media/**
+media/
+env/**
+.idea/
+db.sqlite3
+.DS_Store
+mizban/__pycache__/*.pyc
+user/__pycache__/*
+test-static/
+test-static/**
